@@ -1,2 +1,2 @@
-# osmclcplus
-Hybrid OSM/CLCplus land cover tiles for EU countries
+# OSM/CLCplus
+Supplementary materials for creating hybrid **OSM/CLCplus** land cover tiles for EU countries. This land cover product is based on freely available OpenStreetMap which was processed in several steps. The resulting land cover tiles with a spatial resolution of 2 m contain a total of 19 land cover classes and are available on Zenodo for [2018](https://zenodo.org/records/15039461) and [2022]().
