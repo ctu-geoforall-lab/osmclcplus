@@ -4,7 +4,7 @@ Supplementary materials for creating hybrid **OSM/CLCplus** land cover tiles for
 ## Translation tables
 Three translation tables are available.
 
-The translation of OSM polygon elements into LULC classes is contained in the table:
+The translation of OSM area elements into LULC classes is contained in the table:
 
 ``translation-tables/osm_polygon_to_lulc.csv``
 
