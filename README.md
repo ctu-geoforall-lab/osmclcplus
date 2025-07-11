@@ -8,7 +8,7 @@ The translation of OSM polygon elements into LULC classes is contained in the ta
 
 ``translation-tables/osm_polygon_to_lulc.csv``
 
-The translation of OSM line elements into LULC classes together with the buffer values is contained in the table:
+The translation of OSM linear elements into LULC classes together with the buffer values is contained in the table:
 
 ``translation-tables/osm_line_to_lulc.csv``
 
