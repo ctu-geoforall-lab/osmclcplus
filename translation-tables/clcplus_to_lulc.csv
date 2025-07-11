@@ -1,0 +1,15 @@
+﻿clc-plus_name;clc-plus_code;lc
+Sealed;1;19
+Woody - needle leaved trees;2;40
+Woody - Broadleaved deciduous trees;3;40
+Woody - Broadleaved evergreen trees;4;40
+Low-growing woody plants (bushes, shrubs);5;50
+Permanent herbaceous;6;60
+Periodically herbaceous;7;20
+Lichens and mosses;8;70
+Non- and sparsely-vegetated;9;70
+Water;10;80
+Snow and ice;11;100
+Coastal Seawater buffer;253;80
+Outside area;254;
+No data;255;
